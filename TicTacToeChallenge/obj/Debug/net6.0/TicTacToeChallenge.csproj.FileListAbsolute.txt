@@ -1,0 +1,14 @@
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net6.0\TicTacToeChallenge.exe
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net6.0\TicTacToeChallenge.deps.json
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net6.0\TicTacToeChallenge.runtimeconfig.json
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net6.0\TicTacToeChallenge.dll
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\bin\Debug\net6.0\TicTacToeChallenge.pdb
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.AssemblyInfoInputs.cache
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.AssemblyInfo.cs
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.csproj.CoreCompileInputs.cache
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.dll
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\refint\TicTacToeChallenge.dll
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.pdb
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\TicTacToeChallenge.genruntimeconfig.cache
+D:\UdemyСourses\TicTacToeChallenge\TicTacToeChallenge\obj\Debug\net6.0\ref\TicTacToeChallenge.dll
